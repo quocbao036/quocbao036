@@ -13,8 +13,10 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-<!--
-**quocbao036/quocbao036** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+---
+
 ## 📊 GitHub Stats:
 
 ![Vo Quoc Bao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=quocbao036&show_icons=true&theme=dracula&count_private=true)
@@ -22,6 +24,9 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=quocbao036&theme=dracula&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=quocbao036&layout=compact&theme=dracula&langs_count=10)
+<!--
+**quocbao036/quocbao036** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
